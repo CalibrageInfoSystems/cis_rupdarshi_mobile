@@ -1,0 +1,24 @@
+diff a/rupdarshi_cis/pubspec.yaml b/rupdarshi_cis/pubspec.yaml	(rejected hunks)
+@@ -65,13 +65,18 @@
+  # The following section is specific to Flutter.
+  flutter:
+  
+- # The following line ensures that the Material Icons font is
+- # included with your application, so that you can use the icons in
+- # the material Icons class.
+- uses-material-design: true
++   # The following line ensures that the Material Icons font is
++   # included with your application, so that you can use the icons in
++   # the material Icons class.
++   uses-material-design: true
+  
+++<<<<<<< HEAD
+ +# To add assets to your application, add an assets section, like this:
+ +    assets:
+++=======
++   # To add assets to your application, add an assets section, like this:
++   assets:
+++>>>>>>> 5704d70a523b31d0f6cd1247c90cbdc2edfa8377
+      - assets/.
+      - assets/Icons/.
+  # - assets/saree/.
